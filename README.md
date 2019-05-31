@@ -3,10 +3,16 @@
 Running instance from exp directory n100, n200, n300 benchmarks:
 
 ../Corblivar n100 configs/3dies/regular/n100.conf benches/
+
 ./gp.sh
 
+
+
 ../Corblivar n200 configs/3dies/regular/n200.conf benches/
+
 ./gp.sh
+
+
 
 ../Corblivar n300 configs/3dies/regular/n300.conf benches/
 ./gp.sh
