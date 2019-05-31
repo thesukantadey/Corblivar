@@ -1,3 +1,11 @@
+# Edit by Sukanta Dey
+
+A simple running instance from exp directory:
+
+../Corblivar n200 configs/3dies/regular/n200.conf benches/
+
+
+
 # Corblivar			{#mainpage}
 
 Corblivar is a simulated-annealing-based floorplanning suite for 3D ICs, with special emphasis on planning of large-scale interconnects, timing-driven voltage assignment, and
